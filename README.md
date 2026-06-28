@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ankit-Raskar/Ankit-Raskar/main/assets/bonfire.svg" width="110" alt="bonfire" />
+<img src="https://cdn.jsdelivr.net/gh/Ankit-Raskar/Ankit-Raskar@main/assets/bonfire.svg" width="110" alt="bonfire" />
 
 <h1>ANKIT RASKAR</h1>
 <p><em>"Ashen One, rest by the fire — before the long night ahead."</em></p>
@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ankit-Raskar/Ankit-Raskar/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/Ankit-Raskar/Ankit-Raskar@main/assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -42,7 +42,7 @@ die a dozen times, learn the pattern, and walk away with the loot
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ankit-Raskar/Ankit-Raskar/main/assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Ankit-Raskar/Ankit-Raskar@main/assets/divider.svg" width="100%" alt="" /></div>
 
 <br/>
 
@@ -79,7 +79,7 @@ die a dozen times, learn the pattern, and walk away with the loot
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ankit-Raskar/Ankit-Raskar/main/assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Ankit-Raskar/Ankit-Raskar@main/assets/divider.svg" width="100%" alt="" /></div>
 
 <br/>
 
@@ -98,7 +98,7 @@ die a dozen times, learn the pattern, and walk away with the loot
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ankit-Raskar/Ankit-Raskar/main/assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Ankit-Raskar/Ankit-Raskar@main/assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
