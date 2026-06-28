@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#0d0d0d"/>
+<g transform="translate(100,108)">
+<ellipse cx="0" cy="65" rx="80" ry="12" fill="#000000" opacity="0.4"/>
+<path d="M -58 58 L -8 -8 L 8 -8 L 58 58 Z" fill="#1a1a1a" stroke="#3a2e1f" stroke-width="2"/>
+<path d="M -46 58 L -7 0 L 7 0 L 46 58 Z" fill="#2a2018"/>
+<g stroke="#5c4a30" stroke-width="5" stroke-linecap="round">
+<line x1="-50" y1="54" x2="-21" y2="17"/>
+<line x1="50" y1="54" x2="21" y2="17"/>
+<line x1="-33" y1="54" x2="0" y2="13"/>
+<line x1="33" y1="54" x2="0" y2="21"/>
+</g>
+<g transform="translate(0,-13)">
+<path d="M 0 50 C -21 25, -18 8, 0 -38 C 18 8, 21 25, 0 50 Z" fill="#e8a33d"/>
+<path d="M 0 42 C -13 21, -11 7, 0 -24 C 11 7, 13 21, 0 42 Z" fill="#f2c065"/>
+<path d="M 0 32 C -7 15, -6 4, 0 -12 C 6 4, 7 15, 0 32 Z" fill="#fff3d6"/>
+<path d="M -15 21 C -23 8, -17 0, -8 -8 C -13 4, -12 15, -15 21 Z" fill="#e8a33d" opacity="0.85"/>
+<path d="M 15 21 C 23 8, 17 0, 8 -8 C 13 4, 12 15, 15 21 Z" fill="#e8a33d" opacity="0.85"/>
+</g>
+<g stroke="#8b4513" stroke-width="1" fill="none" opacity="0.6">
+<path d="M -75 62 Q -50 54, -25 60"/>
+<path d="M 25 60 Q 50 54, 75 62"/>
+</g>
+</g>
+</svg>
